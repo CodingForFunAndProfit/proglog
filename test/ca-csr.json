@@ -1,0 +1,16 @@
+{
+    "CN": "CA for prolog",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "DE",
+            "L": "KA",
+            "ST": "Badeb-Württemberg",
+            "O": "proglog",
+            "OU": "CA Services"
+        }
+    ]
+}
